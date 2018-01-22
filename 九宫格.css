@@ -3,12 +3,14 @@
     margin: 1vw;
     height:30vw;
     width:30vw;
-    background-color: #ffff00;
+    background-color: orange;
     float:left;
+    border-radius:5px;
 }
 .div2{
     height:100vw;
     width:100vw;
+    float:left;
 }
 
 
