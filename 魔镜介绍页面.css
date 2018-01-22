@@ -1,0 +1,31 @@
+body{
+    background-color:#68cdd6
+}
+.outer{
+    height:100vw;
+    width:100vw;
+    float:left;
+   }
+.title{
+    height:25vw;
+    width:100vw;
+    float:left;
+}
+.content{
+    padding:5px;,
+    text-align: center;
+    color: white;
+    height:25vw;
+    width:100vw;
+    float:left;
+}
+.qqgroup{
+    height:50vw;
+    width:50vw;
+    float:left;
+}
+.homepagelink{
+    height:50vw;
+    width:50vw;
+    float:left;
+}
