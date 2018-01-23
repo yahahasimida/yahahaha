@@ -1,29 +1,38 @@
 body{
     background-color:#68cdd6;
-    overflow-x: hidden;
+    overflow: hidden;
+    font-szie:18px;
+    color: white;
 }
 .outer{
-    width:600px;
-    height: 1000px;
+    padding: 15px;
+    width:auto;
+    height:100vh;
    }
-.title{
-    height:250px;
-    width:600px;
+.returnbutton{
+    pssition:fixed;
+    top:0;
+    left:0;
+}
+.logo{
+    height:25%;
+    width:100%;
 }
 .content{
     text-align: center;
-    color: white;
-    height:250px;
-    width: 600px;
+    height:25%;
+    width: 100%;
     float:left;
 }
 .qqgroup{
-    height:500px;
-    width: 300px;
+    text-align: center;
+    height:50%;
+    width: 50%;
     float:left;
 }
 .homepagelink{
-    height:500px;
-    width:300px;
+    text-align: center;
+    height:50%;
+    width:50%;
     float:left;
 }

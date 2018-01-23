@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcda1e22-c8fc-4cce-afba-87d459f7ec50" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/backbotton.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/circular_03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/group_03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/logo_03.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/minilogo.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/魔镜介绍页面.css" afterPath="$PROJECT_DIR$/魔镜介绍页面.css" />
       <change beforePath="$PROJECT_DIR$/魔镜介绍页面.html" afterPath="$PROJECT_DIR$/魔镜介绍页面.html" />
@@ -23,21 +18,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="魔镜介绍页面.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="魔镜介绍页面.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/魔镜介绍页面.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-229">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="189">
+              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="魔镜介绍页面.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="魔镜介绍页面.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/魔镜介绍页面.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            <state relative-caret-position="243">
+              <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -61,8 +56,8 @@
       <list>
         <option value="$PROJECT_DIR$/九宫格.html" />
         <option value="$PROJECT_DIR$/九宫格.css" />
-        <option value="$PROJECT_DIR$/魔镜介绍页面.css" />
         <option value="$PROJECT_DIR$/魔镜介绍页面.html" />
+        <option value="$PROJECT_DIR$/魔镜介绍页面.css" />
       </list>
     </option>
   </component>
@@ -73,8 +68,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="115" />
-    <option name="y" value="159" />
+    <option name="x" value="30" />
+    <option name="y" value="67" />
     <option name="width" value="1544" />
     <option name="height" value="814" />
   </component>
@@ -147,7 +142,7 @@
       <workItem from="1516546601377" duration="3000" />
       <workItem from="1516625323006" duration="7307000" />
       <workItem from="1516634315096" duration="857000" />
-      <workItem from="1516717552995" duration="2833000" />
+      <workItem from="1516717552995" duration="6194000" />
     </task>
     <task id="LOCAL-00001" summary="嗯哼">
       <created>1516546559690</created>
@@ -177,14 +172,21 @@
       <option name="project" value="LOCAL" />
       <updated>1516633907202</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="任务三切好图片">
+      <created>1516720424914</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1516720424914</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11386000" />
+    <option name="totallyTimeSpent" value="14747000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="115" y="159" width="1544" height="814" extended-state="0" />
+    <frame x="30" y="67" width="1544" height="814" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2996058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -235,7 +237,8 @@
     <MESSAGE value="最终版本呀哈哈" />
     <MESSAGE value="究极最终版本呀哈哈   隐藏的水平滚动条" />
     <MESSAGE value="任务三html" />
-    <option name="LAST_COMMIT_MESSAGE" value="任务三html" />
+    <MESSAGE value="任务三切好图片" />
+    <option name="LAST_COMMIT_MESSAGE" value="任务三切好图片" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -354,18 +357,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/魔镜介绍页面.css">
+    <entry file="file://$PROJECT_DIR$/魔镜介绍页面.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-229">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="243">
+          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/魔镜介绍页面.html">
+    <entry file="file://$PROJECT_DIR$/魔镜介绍页面.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        <state relative-caret-position="189">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
           <folding />
         </state>
       </provider>
